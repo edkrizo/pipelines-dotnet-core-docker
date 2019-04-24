@@ -1,6 +1,8 @@
 
 # Contributing
 
+[![Build Status](https://edouardg.visualstudio.com/CI-PROJECT/_apis/build/status/CI-PROJECT-CI?branchName=master)](https://edouardg.visualstudio.com/CI-PROJECT/_build/latest?definitionId=11&branchName=master)
+
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
@@ -29,3 +31,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
